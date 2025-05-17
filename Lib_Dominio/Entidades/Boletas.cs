@@ -7,5 +7,9 @@ namespace Lib_Dominio.Entidades
         [Key] public int Id { get; set; }// key es añadido 
         public string? Nombre { get; set; }
         public string? Tipo { get; set; }
+
+        public string prueba { get; set; }
     }
 }
+// prueba de escritorio
+
