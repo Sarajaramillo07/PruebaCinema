@@ -1,0 +1,234 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ISABELLA\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\4TO SEMESTRE\\PROG. SOFTWARE\\Cinema2Entrega\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B67EE4B-63FC-4D83-BBE3-28958469BC59}|Lib_Repositorio\\Lib_Repositorio.csproj|c:\\users\\isabella\\onedrive - instituto tecnologico metropolitano - itm\\4to semestre\\prog. software\\cinema2entrega\\lib_repositorio\\interfaces\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}",
+      "RelativeMoniker": "D:0:0:{8B67EE4B-63FC-4D83-BBE3-28958469BC59}|Lib_Repositorio\\Lib_Repositorio.csproj|solutionrelative:lib_repositorio\\interfaces\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0161496-1B31-4166-B123-249B514DB518}|Lib_Dominio\\Lib_Dominio.csproj|c:\\users\\isabella\\onedrive - instituto tecnologico metropolitano - itm\\4to semestre\\prog. software\\cinema2entrega\\lib_dominio\\entidades\\boletas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0161496-1B31-4166-B123-249B514DB518}|Lib_Dominio\\Lib_Dominio.csproj|solutionrelative:lib_dominio\\entidades\\boletas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0161496-1B31-4166-B123-249B514DB518}|Lib_Dominio\\Lib_Dominio.csproj|c:\\users\\isabella\\onedrive - instituto tecnologico metropolitano - itm\\4to semestre\\prog. software\\cinema2entrega\\lib_dominio\\entidades\\peliculas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0161496-1B31-4166-B123-249B514DB518}|Lib_Dominio\\Lib_Dominio.csproj|solutionrelative:lib_dominio\\entidades\\peliculas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0161496-1B31-4166-B123-249B514DB518}|Lib_Dominio\\Lib_Dominio.csproj|c:\\users\\isabella\\onedrive - instituto tecnologico metropolitano - itm\\4to semestre\\prog. software\\cinema2entrega\\lib_dominio\\entidades\\snacks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0161496-1B31-4166-B123-249B514DB518}|Lib_Dominio\\Lib_Dominio.csproj|solutionrelative:lib_dominio\\entidades\\snacks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0161496-1B31-4166-B123-249B514DB518}|Lib_Dominio\\Lib_Dominio.csproj|c:\\users\\isabella\\onedrive - instituto tecnologico metropolitano - itm\\4to semestre\\prog. software\\cinema2entrega\\lib_dominio\\entidades\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0161496-1B31-4166-B123-249B514DB518}|Lib_Dominio\\Lib_Dominio.csproj|solutionrelative:lib_dominio\\entidades\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0161496-1B31-4166-B123-249B514DB518}|Lib_Dominio\\Lib_Dominio.csproj|c:\\users\\isabella\\onedrive - instituto tecnologico metropolitano - itm\\4to semestre\\prog. software\\cinema2entrega\\lib_dominio\\entidades\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0161496-1B31-4166-B123-249B514DB518}|Lib_Dominio\\Lib_Dominio.csproj|solutionrelative:lib_dominio\\entidades\\empleados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0161496-1B31-4166-B123-249B514DB518}|Lib_Dominio\\Lib_Dominio.csproj|c:\\users\\isabella\\onedrive - instituto tecnologico metropolitano - itm\\4to semestre\\prog. software\\cinema2entrega\\lib_dominio\\entidades\\salassedes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0161496-1B31-4166-B123-249B514DB518}|Lib_Dominio\\Lib_Dominio.csproj|solutionrelative:lib_dominio\\entidades\\salassedes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0161496-1B31-4166-B123-249B514DB518}|Lib_Dominio\\Lib_Dominio.csproj|c:\\users\\isabella\\onedrive - instituto tecnologico metropolitano - itm\\4to semestre\\prog. software\\cinema2entrega\\lib_dominio\\entidades\\salas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0161496-1B31-4166-B123-249B514DB518}|Lib_Dominio\\Lib_Dominio.csproj|solutionrelative:lib_dominio\\entidades\\salas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0161496-1B31-4166-B123-249B514DB518}|Lib_Dominio\\Lib_Dominio.csproj|c:\\users\\isabella\\onedrive - instituto tecnologico metropolitano - itm\\4to semestre\\prog. software\\cinema2entrega\\lib_dominio\\entidades\\sedes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0161496-1B31-4166-B123-249B514DB518}|Lib_Dominio\\Lib_Dominio.csproj|solutionrelative:lib_dominio\\entidades\\sedes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0161496-1B31-4166-B123-249B514DB518}|Lib_Dominio\\Lib_Dominio.csproj|c:\\users\\isabella\\onedrive - instituto tecnologico metropolitano - itm\\4to semestre\\prog. software\\cinema2entrega\\lib_dominio\\entidades\\codigoscompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0161496-1B31-4166-B123-249B514DB518}|Lib_Dominio\\Lib_Dominio.csproj|solutionrelative:lib_dominio\\entidades\\codigoscompras.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0161496-1B31-4166-B123-249B514DB518}|Lib_Dominio\\Lib_Dominio.csproj|c:\\users\\isabella\\onedrive - instituto tecnologico metropolitano - itm\\4to semestre\\prog. software\\cinema2entrega\\lib_dominio\\nucleo\\datosgenerales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0161496-1B31-4166-B123-249B514DB518}|Lib_Dominio\\Lib_Dominio.csproj|solutionrelative:lib_dominio\\nucleo\\datosgenerales.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B67EE4B-63FC-4D83-BBE3-28958469BC59}|Lib_Repositorio\\Lib_Repositorio.csproj|c:\\users\\isabella\\onedrive - instituto tecnologico metropolitano - itm\\4to semestre\\prog. software\\cinema2entrega\\lib_repositorio\\interfaces\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame",
+      "RelativeMoniker": "D:0:0:{8B67EE4B-63FC-4D83-BBE3-28958469BC59}|Lib_Repositorio\\Lib_Repositorio.csproj|solutionrelative:lib_repositorio\\interfaces\\script.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:139:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Script.sql ",
+              "DocumentMoniker": "C:\\Users\\ISABELLA\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\4TO SEMESTRE\\PROG. SOFTWARE\\Cinema2Entrega\\Lib_Repositorio\\Interfaces\\Script.sql",
+              "RelativeDocumentMoniker": "Lib_Repositorio\\Interfaces\\Script.sql",
+              "ToolTip": "C:\\Users\\ISABELLA\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\4TO SEMESTRE\\PROG. SOFTWARE\\Cinema2Entrega\\Lib_Repositorio\\Interfaces\\Script.sql",
+              "RelativeToolTip": "Lib_Repositorio\\Interfaces\\Script.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2025-04-01T20:41:30.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Snacks.cs",
+              "DocumentMoniker": "C:\\Users\\ISABELLA\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\4TO SEMESTRE\\PROG. SOFTWARE\\Cinema2Entrega\\Lib_Dominio\\Entidades\\Snacks.cs",
+              "RelativeDocumentMoniker": "Lib_Dominio\\Entidades\\Snacks.cs",
+              "ToolTip": "C:\\Users\\ISABELLA\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\4TO SEMESTRE\\PROG. SOFTWARE\\Cinema2Entrega\\Lib_Dominio\\Entidades\\Snacks.cs",
+              "RelativeToolTip": "Lib_Dominio\\Entidades\\Snacks.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T20:37:07.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Clientes.cs",
+              "DocumentMoniker": "C:\\Users\\ISABELLA\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\4TO SEMESTRE\\PROG. SOFTWARE\\Cinema2Entrega\\Lib_Dominio\\Entidades\\Clientes.cs",
+              "RelativeDocumentMoniker": "Lib_Dominio\\Entidades\\Clientes.cs",
+              "ToolTip": "C:\\Users\\ISABELLA\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\4TO SEMESTRE\\PROG. SOFTWARE\\Cinema2Entrega\\Lib_Dominio\\Entidades\\Clientes.cs",
+              "RelativeToolTip": "Lib_Dominio\\Entidades\\Clientes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T20:36:55.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Empleados.cs",
+              "DocumentMoniker": "C:\\Users\\ISABELLA\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\4TO SEMESTRE\\PROG. SOFTWARE\\Cinema2Entrega\\Lib_Dominio\\Entidades\\Empleados.cs",
+              "RelativeDocumentMoniker": "Lib_Dominio\\Entidades\\Empleados.cs",
+              "ToolTip": "C:\\Users\\ISABELLA\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\4TO SEMESTRE\\PROG. SOFTWARE\\Cinema2Entrega\\Lib_Dominio\\Entidades\\Empleados.cs",
+              "RelativeToolTip": "Lib_Dominio\\Entidades\\Empleados.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T20:36:47.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SalasSedes.cs",
+              "DocumentMoniker": "C:\\Users\\ISABELLA\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\4TO SEMESTRE\\PROG. SOFTWARE\\Cinema2Entrega\\Lib_Dominio\\Entidades\\SalasSedes.cs",
+              "RelativeDocumentMoniker": "Lib_Dominio\\Entidades\\SalasSedes.cs",
+              "ToolTip": "C:\\Users\\ISABELLA\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\4TO SEMESTRE\\PROG. SOFTWARE\\Cinema2Entrega\\Lib_Dominio\\Entidades\\SalasSedes.cs",
+              "RelativeToolTip": "Lib_Dominio\\Entidades\\SalasSedes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T20:36:34.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Salas.cs",
+              "DocumentMoniker": "C:\\Users\\ISABELLA\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\4TO SEMESTRE\\PROG. SOFTWARE\\Cinema2Entrega\\Lib_Dominio\\Entidades\\Salas.cs",
+              "RelativeDocumentMoniker": "Lib_Dominio\\Entidades\\Salas.cs",
+              "ToolTip": "C:\\Users\\ISABELLA\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\4TO SEMESTRE\\PROG. SOFTWARE\\Cinema2Entrega\\Lib_Dominio\\Entidades\\Salas.cs",
+              "RelativeToolTip": "Lib_Dominio\\Entidades\\Salas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T20:36:23.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Sedes.cs",
+              "DocumentMoniker": "C:\\Users\\ISABELLA\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\4TO SEMESTRE\\PROG. SOFTWARE\\Cinema2Entrega\\Lib_Dominio\\Entidades\\Sedes.cs",
+              "RelativeDocumentMoniker": "Lib_Dominio\\Entidades\\Sedes.cs",
+              "ToolTip": "C:\\Users\\ISABELLA\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\4TO SEMESTRE\\PROG. SOFTWARE\\Cinema2Entrega\\Lib_Dominio\\Entidades\\Sedes.cs",
+              "RelativeToolTip": "Lib_Dominio\\Entidades\\Sedes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T20:36:16.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CodigosCompras.cs",
+              "DocumentMoniker": "C:\\Users\\ISABELLA\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\4TO SEMESTRE\\PROG. SOFTWARE\\Cinema2Entrega\\Lib_Dominio\\Entidades\\CodigosCompras.cs",
+              "RelativeDocumentMoniker": "Lib_Dominio\\Entidades\\CodigosCompras.cs",
+              "ToolTip": "C:\\Users\\ISABELLA\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\4TO SEMESTRE\\PROG. SOFTWARE\\Cinema2Entrega\\Lib_Dominio\\Entidades\\CodigosCompras.cs",
+              "RelativeToolTip": "Lib_Dominio\\Entidades\\CodigosCompras.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T20:36:02.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Boletas.cs",
+              "DocumentMoniker": "C:\\Users\\ISABELLA\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\4TO SEMESTRE\\PROG. SOFTWARE\\Cinema2Entrega\\Lib_Dominio\\Entidades\\Boletas.cs",
+              "RelativeDocumentMoniker": "Lib_Dominio\\Entidades\\Boletas.cs",
+              "ToolTip": "C:\\Users\\ISABELLA\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\4TO SEMESTRE\\PROG. SOFTWARE\\Cinema2Entrega\\Lib_Dominio\\Entidades\\Boletas.cs",
+              "RelativeToolTip": "Lib_Dominio\\Entidades\\Boletas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T20:35:47.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Peliculas.cs",
+              "DocumentMoniker": "C:\\Users\\ISABELLA\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\4TO SEMESTRE\\PROG. SOFTWARE\\Cinema2Entrega\\Lib_Dominio\\Entidades\\Peliculas.cs",
+              "RelativeDocumentMoniker": "Lib_Dominio\\Entidades\\Peliculas.cs",
+              "ToolTip": "C:\\Users\\ISABELLA\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\4TO SEMESTRE\\PROG. SOFTWARE\\Cinema2Entrega\\Lib_Dominio\\Entidades\\Peliculas.cs",
+              "RelativeToolTip": "Lib_Dominio\\Entidades\\Peliculas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T02:56:19.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DatosGenerales.cs",
+              "DocumentMoniker": "C:\\Users\\ISABELLA\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\4TO SEMESTRE\\PROG. SOFTWARE\\Cinema2Entrega\\Lib_Dominio\\Nucleo\\DatosGenerales.cs",
+              "RelativeDocumentMoniker": "Lib_Dominio\\Nucleo\\DatosGenerales.cs",
+              "ToolTip": "C:\\Users\\ISABELLA\\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\\4TO SEMESTRE\\PROG. SOFTWARE\\Cinema2Entrega\\Lib_Dominio\\Nucleo\\DatosGenerales.cs",
+              "RelativeToolTip": "Lib_Dominio\\Nucleo\\DatosGenerales.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-01T20:30:13.97Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

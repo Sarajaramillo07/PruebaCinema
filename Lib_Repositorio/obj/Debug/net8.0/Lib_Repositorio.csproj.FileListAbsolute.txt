@@ -1,0 +1,15 @@
+C:\Users\ISABELLA\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\4TO SEMESTRE\PROG. SOFTWARE\Cinema2Entrega\Lib_Repositorio\bin\Debug\net8.0\Lib_Repositorio.deps.json
+C:\Users\ISABELLA\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\4TO SEMESTRE\PROG. SOFTWARE\Cinema2Entrega\Lib_Repositorio\bin\Debug\net8.0\Lib_Repositorio.dll
+C:\Users\ISABELLA\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\4TO SEMESTRE\PROG. SOFTWARE\Cinema2Entrega\Lib_Repositorio\bin\Debug\net8.0\Lib_Repositorio.pdb
+C:\Users\ISABELLA\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\4TO SEMESTRE\PROG. SOFTWARE\Cinema2Entrega\Lib_Repositorio\bin\Debug\net8.0\Lib_Dominio.dll
+C:\Users\ISABELLA\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\4TO SEMESTRE\PROG. SOFTWARE\Cinema2Entrega\Lib_Repositorio\bin\Debug\net8.0\Lib_Dominio.pdb
+C:\Users\ISABELLA\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\4TO SEMESTRE\PROG. SOFTWARE\Cinema2Entrega\Lib_Repositorio\obj\Debug\net8.0\Lib_Repositorio.csproj.AssemblyReference.cache
+C:\Users\ISABELLA\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\4TO SEMESTRE\PROG. SOFTWARE\Cinema2Entrega\Lib_Repositorio\obj\Debug\net8.0\Lib_Repositorio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ISABELLA\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\4TO SEMESTRE\PROG. SOFTWARE\Cinema2Entrega\Lib_Repositorio\obj\Debug\net8.0\Lib_Repositorio.AssemblyInfoInputs.cache
+C:\Users\ISABELLA\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\4TO SEMESTRE\PROG. SOFTWARE\Cinema2Entrega\Lib_Repositorio\obj\Debug\net8.0\Lib_Repositorio.AssemblyInfo.cs
+C:\Users\ISABELLA\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\4TO SEMESTRE\PROG. SOFTWARE\Cinema2Entrega\Lib_Repositorio\obj\Debug\net8.0\Lib_Repositorio.csproj.CoreCompileInputs.cache
+C:\Users\ISABELLA\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\4TO SEMESTRE\PROG. SOFTWARE\Cinema2Entrega\Lib_Repositorio\obj\Debug\net8.0\Lib_Repo.0F288044.Up2Date
+C:\Users\ISABELLA\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\4TO SEMESTRE\PROG. SOFTWARE\Cinema2Entrega\Lib_Repositorio\obj\Debug\net8.0\Lib_Repositorio.dll
+C:\Users\ISABELLA\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\4TO SEMESTRE\PROG. SOFTWARE\Cinema2Entrega\Lib_Repositorio\obj\Debug\net8.0\refint\Lib_Repositorio.dll
+C:\Users\ISABELLA\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\4TO SEMESTRE\PROG. SOFTWARE\Cinema2Entrega\Lib_Repositorio\obj\Debug\net8.0\Lib_Repositorio.pdb
+C:\Users\ISABELLA\OneDrive - INSTITUTO TECNOLOGICO METROPOLITANO - ITM\4TO SEMESTRE\PROG. SOFTWARE\Cinema2Entrega\Lib_Repositorio\obj\Debug\net8.0\ref\Lib_Repositorio.dll
